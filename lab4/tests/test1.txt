@@ -1,0 +1,12 @@
+(3 + 4) / 7
+i = 1
+5
+pow(5 / (i * pi), sin(3 * pi))
+pow(5 / (i * pi), sin( * pi))
+pow(/ (i * pi), sin(3 * pi))
+pow(5 / sin(3 * pi)
+pow(5 / sin(3 * pi)))
+12pow5 / (i * pi), sin(3 * pi)
+i = 1
+12pow(1)
+i = 12i
